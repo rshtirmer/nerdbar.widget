@@ -27,9 +27,9 @@ style: """
   overflow: hidden
   text-overflow: ellipsis
   top: 6px
-  width: 1440px 
-  display:flex
-  justify-content:center
-  align-items:center
+  width: 100% 
+  display: flex
+  justify-content: center
+  align-items: center
 """
 
